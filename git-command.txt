@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/doanmc/flexbox-media.git
+git remote set-url origin https://doanmc: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@github.com/doanmc/flexbox-media.git
+get push
+
+ git push --set-upstream origin master
